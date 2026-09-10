@@ -111,7 +111,7 @@
 
             <td>Swift</td>
 
-            <td>₹1,500</td>
+            <td><strong style ="colour:green;">₹1,500</strong></td>
             <td>4 wheeler</td>
             <td>Available</td>
 
@@ -123,7 +123,7 @@
 
             <td>Creta</td>
 
-            <td>₹2,500</td>
+            <td><strong style="colour:green;">₹2,500</strong></td>
             <td>4 wheeler</td>
             <td>Available</td>
 
@@ -135,7 +135,7 @@
 
             <td>City</td>
 
-            <td>₹2,000</td>
+            <td><strong style="colour:green;">₹2,000</strong></td>
             <td>4 wheeler</td>
             <td>Available</td>
 
@@ -147,7 +147,7 @@
 
             <td>Innova</td>
 
-            <td>₹3,000</td>
+            <td><strong style="colour:green;">₹3,000></strong></td>
             <td>4 wheeler</td>
             <td>Available</td>
 
@@ -159,7 +159,7 @@
 
             <td>Activa</td>
 
-            <td>₹700</td>
+            <td><strong style="colour:green;">₹700</strong></td>
             <td>4 wheeler</td>
             <td>Available</td>
 
