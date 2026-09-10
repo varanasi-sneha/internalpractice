@@ -100,6 +100,9 @@
 
             <th>Rental Rate / Day</th>
 
+            <th>Vehicle Type </th>
+            <th> Availability status</th>
+
         </tr>
 
         <tr>
@@ -109,6 +112,8 @@
             <td>Swift</td>
 
             <td>₹1,500</td>
+            <td>4 wheeler</td>
+            <td>Available</td>
 
         </tr>
 
@@ -119,6 +124,8 @@
             <td>Creta</td>
 
             <td>₹2,500</td>
+            <td>4 wheeler</td>
+            <td>Available</td>
 
         </tr>
 
@@ -129,6 +136,8 @@
             <td>City</td>
 
             <td>₹2,000</td>
+            <td>4 wheeler</td>
+            <td>Available</td>
 
         </tr>
 
@@ -139,6 +148,8 @@
             <td>Innova</td>
 
             <td>₹3,000</td>
+            <td>4 wheeler</td>
+            <td>Available</td>
 
         </tr>
 
@@ -149,6 +160,8 @@
             <td>Activa</td>
 
             <td>₹700</td>
+            <td>4 wheeler</td>
+            <td>Available</td>
 
         </tr>
 
